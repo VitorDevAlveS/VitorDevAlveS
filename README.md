@@ -32,20 +32,19 @@
 
 <br><br>
 
-<div align="center">
-<h2>Entre Em Contato Comigo ;</h2>
-<a href="malito:vitorgalves03@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://github.com/VitorDevAlveS" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<!--<a href="malito:vitorgalves03@gmail.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-"target="_blank"></a>-->
-</div>
-
-
 <div>
 <p>🧑‍💻 Tenho Que Aprender Mais;</p>
 <p>🤤 Curso de Web Design, UX/UI Da <a href="https://origamid.com/"> Origamid;</a></p>
 <p>🤑 Comprei o Curso Web Do <a href="https://programadorbr.com/"> Programador BR;</a></p>
 <p>🎓 Desenvolvimento De Sistemas No Senai CTTI;</p>
 <p>🤓 #QueroSerMobile;</p>
+</div>
+
+<div align="center">
+<h2>Entre Em Contato Comigo ;</h2>
+<a href="malito:vitorgalves03@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://github.com/VitorDevAlveS" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<!--<a href="malito:vitorgalves03@gmail.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+"target="_blank"></a>-->
 </div>
 
