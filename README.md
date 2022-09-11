@@ -8,8 +8,6 @@
  - Iniciante ⭐<br>
  - Fututo Dev Mobile 📱 
 
-##
-
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorDevAlveS&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&locale=pt-br"/>
 </div>
@@ -34,8 +32,8 @@
 
 <div>
 <p>🧑‍💻 Tenho Que Aprender Mais;</p>
-<p>🤤 Curso de Web Design, UX/UI Da <a href="https://origamid.com/"> Origamid;</a></p>
-<p>🤑 Comprei o Curso Web Do <a href="https://programadorbr.com/"> Programador BR;</a></p>
+<p>😊 Curso de Web Design, UX/UI Da <a href="https://origamid.com/"> Origamid;</a></p>
+<p>😎 Estudando o Curso Web Do <a href="https://programadorbr.com/"> Programador BR;</a></p>
 <p>🎓 Desenvolvimento De Sistemas No Senai CTTI;</p>
 <p>🤓 #QueroSerMobile;</p>
 </div>
